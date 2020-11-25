@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b6f8d0a569586094b834ce89fa7d1eba
+timeCreated: 1525724347
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Fairy Tale
+  fontNames:
+  - Fairy Tale
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
